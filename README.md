@@ -1,9 +1,10 @@
-# Currículo pessoal
-## Primeiro projeto desenvolvido por mim, para primeira avaliação do curso de ADS Ulbra Torres 2023/01.
+# Currículo Pessoal
+## Primeiro projeto desenvolvido na introdução ao CSS.
+#### Curso/Cadeira: Introdução ao Desenvolvimento Web, Ulbra Torres 2023/01.
 
 ### O que usei?
 
-##### · HTML
+##### · HTML;
 ##### · CSS
 
 ![Screenshot_1](https://github.com/ViniciusMat0s/Curriculum_HTMLCSS/assets/128171517/3b518003-c855-4202-bea0-a1b66306cb7e)
