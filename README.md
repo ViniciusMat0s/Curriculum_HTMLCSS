@@ -4,7 +4,7 @@
 
 ### O que usei?
 
-##### · HTML;
+##### · HTML
 ##### · CSS
 
 ![Screenshot_1](https://github.com/ViniciusMat0s/Curriculum_HTMLCSS/assets/128171517/3b518003-c855-4202-bea0-a1b66306cb7e)
