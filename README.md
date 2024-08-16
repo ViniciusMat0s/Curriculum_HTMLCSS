@@ -1,4 +1,4 @@
-# Currículo Pessoal desenvolvido em HTML/CSS
+# Currículo pessoal
 ## Primeiro projeto desenvolvido na introdução ao CSS.
 #### Curso/Cadeira: Introdução ao Desenvolvimento Web, Ulbra Torres 2023/01.
 
